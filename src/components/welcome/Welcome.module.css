@@ -1,0 +1,19 @@
+.container {
+  min-height: 100vh;
+  background-color: rgb(255, 218, 249);
+  padding: 16px;
+  font-size: 2rem;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
+
+.button {
+  width: 6em;
+  background-color: rgb(251, 144, 233);
+  border-radius: 1em;
+  text-align: center;
+  padding: 1em 0;
+}
